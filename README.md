@@ -6,7 +6,7 @@
 
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warleymendeslopes&layout=donut" />
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!--
 HiagoRoedel/HiagoRoedel is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
