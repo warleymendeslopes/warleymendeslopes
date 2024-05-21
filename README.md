@@ -11,6 +11,8 @@ Warley Mendes
 
 
 
+![snake gif](https://github.com/warleymendeslopes/warleymendeslopes/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 HiagoRoedel/HiagoRoedel is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
