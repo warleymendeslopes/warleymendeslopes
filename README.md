@@ -3,13 +3,9 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@warleymendeslopes)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/warleymendeslopes)
 
-!warley mendes lopes GitHub Stats
+
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warleymendeslopes&layout=donut" />
 
-###### Tecnologias que uso em meu dia a dia
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
-!snake gif
 
 <!--
 HiagoRoedel/HiagoRoedel is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
