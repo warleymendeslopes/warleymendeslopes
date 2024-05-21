@@ -2,10 +2,6 @@
 
 ![Warley Mendes GitHub Stats](https://github-readme-stats.vercel.app/api?username=warleymendeslopes&show_icons=true&theme=dark)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warleymendeslopes&layout=donut" />
-
-
-
-![snake gif](https://github.com/warleymendeslopes/warleymendeslopes/blob/output/github-contribution-grid-snake-dark.svg)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
@@ -17,6 +13,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+![snake gif](https://github.com/warleymendeslopes/warleymendeslopes/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 HiagoRoedel/HiagoRoedel is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
